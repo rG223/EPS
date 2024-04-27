@@ -1,5 +1,5 @@
 # Evolutionary Preference Sampling for Pareto Set Learning
-![Image](./images/eps.png)
+![Image](./eps.png)
 The overview of the EPS.
 
 This project is a pytorch implementation of *Evolutionary Preference Sampling for Pareto Set Learning*  
