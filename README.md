@@ -6,7 +6,7 @@ This project is a pytorch implementation of *Evolutionary Preference Sampling fo
 ## Installation
 ### Requirements
 Our provide the packages file of our environment (requirement.txt), you can using the following command to download the environment:
-  -pip install -r requirements.txt
+-pip install -r requirements.txt
 ## Parameters
 - problem_name: Testing problems. (0: Normal, 1:EPS strategy)
 - scalar: Scalarization function (tch2: Tchebycheff function, tch1: Modified Tchebycheff function, cosmos: A Feature fusion method, hv1: hypervolume optimization)
