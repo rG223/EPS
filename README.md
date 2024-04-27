@@ -25,4 +25,10 @@ python train_net.py --problem_name 'dtlz7' --using_adapt 0
 ## Citation
 
 you can cite our work if this work is useful for you.
+@article{ye2024evolutionary,
+  title={Evolutionary Preference Sampling for Pareto Set Learning},
+  author={Ye, Rongguang and Chen, Longcan and Zhang, Jinyuan and Ishibuchi, Hisao},
+  journal={arXiv preprint arXiv:2404.08414},
+  year={2024}
+}
 Our paper can be accessed at https://arxiv.org/abs/2404.08414.
